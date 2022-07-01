@@ -1,0 +1,15 @@
+ [{
+        fname: "Deep",
+        lname: "Patel",
+        city: "Surat"
+    },
+    {
+        fname: "Sunny",
+        lname: "Utsav",
+        city: "Surat"
+    },
+    {
+        fname: "Rudresh",
+        lname: "Raval",
+        city: "Surat"
+    }]

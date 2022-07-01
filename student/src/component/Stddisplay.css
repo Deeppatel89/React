@@ -1,0 +1,40 @@
+.maindiv{
+    height: 80vh;
+    width: 100%;
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.tablehead{
+    height: 50px;
+    width: 700px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.headtr{
+    height: 100%;
+    width: 100%;
+    /* border: 2px solid black; */
+   
+
+}
+.headth{
+    height: 100%;
+    width: 400px;
+    font-size: 40px;
+    /* border: 2px solid black; */
+    /* border-right: 2px solid black; */
+
+}
+.fild{
+    height: 50px;
+    width: 700px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
