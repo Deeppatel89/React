@@ -1,0 +1,25 @@
+.sign{
+    height: 80vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    height: 400px;
+    width: 300px;
+    background-color:black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.h3{
+    color: aliceblue;
+    padding: 20px;
+}
+.label{
+    color: aliceblue;
+    padding: 10PX;
+    margin: 10px;
+}

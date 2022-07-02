@@ -1,0 +1,45 @@
+.main{
+    height: 80px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+    
+
+}
+.logo{
+    height: 80px;
+    width: 80px;
+   
+    
+}
+.logo img{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    margin-right: 20px;
+
+}
+
+.main ul{
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    margin-right:50px ;
+
+}
+.main li{
+    text-decoration: none;
+    list-style: none;
+    margin: 30px;
+
+
+}
+.home{
+    list-style: none;
+    text-decoration: none;
+    font-size: 25px;
+    color: aliceblue;
+
+}
