@@ -1,0 +1,52 @@
+.main-container{
+    display: flex;
+    
+}
+.dashboard_main{
+    height: 90vh;
+    width: 100%;
+    overflow: scroll;
+}
+
+.blog_main{
+    height: 100px;
+    width: 100%;
+   
+}
+.chart_main{
+    height: 280px;
+    width: 100%;
+    /* background-color: aquamarine; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+}
+.barchart{
+    height: 90%;
+    width: 30%;
+    /* background-color:antiquewhite; */
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 4px 0px rgb(205, 200, 200);
+    
+}
+.linechart{
+    height: 90%;
+    width: 30%;
+    border-radius: 5px;
+    box-shadow: 1px 1px 4px 0px rgb(205, 200, 200);  
+    margin: 10px;
+}
+.RadarChart{
+    height: 90%;
+    width: 30%;
+    border-radius: 5px;
+    box-shadow: 1px 1px 4px 0px rgb(205, 200, 200);
+    margin: 10px;
+}
+.blank{
+    height: 600px;
+    width: 100%;
+    background-color: aqua;
+}

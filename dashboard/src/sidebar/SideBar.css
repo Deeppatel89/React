@@ -1,0 +1,50 @@
+.sidebar{
+    width: 200px;
+    height: 90vh;
+    /* background-color: aqua; */
+    border: 2px solid rgb(170, 169, 169);
+    overflow: scroll;
+    overflow-x: hidden;
+    
+}
+.component{
+    height: 50px;
+    width: 100%;
+    border-bottom: 1px solid lightgray;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    border: 1px solid rgb(245, 245, 245);
+    cursor: pointer;
+ 
+}
+.component:hover {
+    background-color: rgb(245, 245, 245);
+}
+.icon{
+    height: 100%;
+    width: 30%;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.name{
+    height: 100%;
+    width: 50%;
+    font-size: 13px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#logo{
+    font-size: 17px;
+    color: grey;
+}
+.notification{
+    height: 100%;
+    width: 20%;
+   
+
+}
