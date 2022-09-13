@@ -1,0 +1,19 @@
+
+table tr th {
+    border: 1px solid lightgreen;
+    padding: 10px;
+    text-align: center;
+    
+}
+table{
+    width: 600px;
+}
+td{
+    padding: 5px;
+    text-align: center;
+    border: 1px solid lightgreen;
+}
+.btn{
+    border: none;
+
+}
